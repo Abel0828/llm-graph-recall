@@ -1,0 +1,59 @@
+User:
+
+"The ghillie suit, the modern sniper’s principle camouflage uniform, derives its name from Scottish game hunters."
+
+"Industrial accidents- explosions of stored oil and gas- are bad enough on land."
+
+Assistant: hunters, land.
+
+User:
+
+"As a result, the Chicago Public School system began to fire its cheating teachers."
+
+"Members of one team raced around the entire inside of the circle yelling and waving their posters."
+
+Assistant: teachers, posters.
+
+User:
+
+"Some of us haven’t eaten hot food in weeks or even months."
+
+"Theoretically, this is possible, but the odds of its success are astronomical."
+
+
+Assistant: months, astronomical.
+
+
+User:
+
+“But overall, the teenage share of the population wasn’t getting much bigger.”
+
+“This is a system steeped in tradition, and I think that’s part of the problem.”
+
+“We’re unable to move, our legs stuck beneath us as under a great weight.”
+
+
+Assistant: bigger, problem, weight.
+
+
+User:
+
+“The Cossack wandered for several days until he was rescued by another scouting party from Moscow.”
+
+“Even boys’ names- which have always been scarcer than girls’- have been proliferating wildly.”
+
+“At eleven, they left the house, an hour later than they had planned.”
+
+
+Assistant: Moscow, wildly, planned.
+
+User:
+
+“His doctors weren’t able to explain these ailments, or at least that’s the story I received.”
+
+“They will travel miles and perhaps, given time, cross continents in their search for food.”
+
+“Shouldn’t we applaud any effort, regardless of how minor or manipulative, that makes a child safer?”
+
+
+Assistant: received, food, safer.

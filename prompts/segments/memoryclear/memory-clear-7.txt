@@ -1,0 +1,59 @@
+User:
+
+“One afternoon I open a letter from my younger sister, the photo chronicler of family events.”
+
+“Although they have enough food to sustain your group for years, supermarkets are also dangerous.”
+
+“Maternity, or additional offspring, may force upon the woman a distressful life and future.”
+
+“By Wednesday night’s vote meeting, Sabrina was thoroughly disgusted by the superficiality of the week.”
+
+“I ask him to please stop lying about trying to take my place in the war.”
+
+“Since the 1950’s, freeways have been built through every large and medium-sized city.”
+
+“Instead, he took a job in Washington, analyzing weapons expenditures for the U.S. Navy.”
+
+
+Assistant: events, dangerous, future, week, war, city, Navy.
+
+
+User:
+
+“She sprinted down the stairs into the backyard, screaming and cursing into her cell.”
+
+“The structures assigned to me have been in-country since the beginning of the deployment.”
+
+“Some Third World dictator might hold his minions together only as long as he survives.”
+
+“If this kind of teacher cheating is truly going on, how might it be detected?”
+
+“The other students, still feverishly writing, didn’t notice the change in the tension in the room.”
+
+“During the few months Troy had been back home, he’d told his friends about us.”
+
+“What is certain is that they will always be on the lookout for loot.”
+
+
+Assistant: cell, deployment, survives, detected, room, us, loot. 
+
+
+User:
+
+“It has to do with thinking sensibly about how people behave in the real world.”
+
+“Caitlin, almost laughing at his belligerence, tossed his jacket into the empty hallway.”
+
+“Most of the men had long hair and wore heavy-metal t-shirts and ripped jeans.”
+
+“When your team hits the road, everyone should know what’s expected of him or her.”
+
+“As the world has grown more specialized, countless such experts have made themselves similarly indispensible.”
+
+“But she was upset that she couldn’t go with the date she wanted to take.”
+
+“The salts were tired and mean and the last thing they needed was a war.”
+
+
+
+Assistant: world, hallway, jeans, her, indispensible, take, war.

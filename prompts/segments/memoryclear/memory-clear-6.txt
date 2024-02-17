@@ -1,0 +1,204 @@
+User:
+
+"The ghillie suit, the modern sniper’s principle camouflage uniform, derives its name from Scottish game hunters."
+
+"Industrial accidents- explosions of stored oil and gas- are bad enough on land."
+
+Assistant: hunters, land.
+
+User:
+
+"As a result, the Chicago Public School system began to fire its cheating teachers."
+
+"Members of one team raced around the entire inside of the circle yelling and waving their posters."
+
+Assistant: teachers, posters.
+
+User:
+
+"Some of us haven’t eaten hot food in weeks or even months."
+
+"Theoretically, this is possible, but the odds of its success are astronomical."
+
+
+Assistant: months, astronomical.
+
+
+User:
+
+“But overall, the teenage share of the population wasn’t getting much bigger.”
+
+“This is a system steeped in tradition, and I think that’s part of the problem.”
+
+“We’re unable to move, our legs stuck beneath us as under a great weight.”
+
+
+Assistant: bigger, problem, weight.
+
+
+User:
+
+“The Cossack wandered for several days until he was rescued by another scouting party from Moscow.”
+
+“Even boys’ names- which have always been scarcer than girls’- have been proliferating wildly.”
+
+“At eleven, they left the house, an hour later than they had planned.”
+
+
+Assistant: Moscow, wildly, planned.
+
+User:
+
+“His doctors weren’t able to explain these ailments, or at least that’s the story I received.”
+
+“They will travel miles and perhaps, given time, cross continents in their search for food.”
+
+“Shouldn’t we applaud any effort, regardless of how minor or manipulative, that makes a child safer?”
+
+
+Assistant: received, food, safer.
+
+
+
+
+User:
+
+“Sororities’ most sacred traditions, of course, have nothing to do with Spring Break.”
+
+“I keep a photo of a girl- she’s from Iowa- for a few months.”
+
+“As most readers know, much of Hanno’s work is controversial and debated among academic historians.”
+
+“But if an adopted child is prone to lower test scores, a spanked child is not.”
+
+
+Assistant: Break, months, historians, not.
+
+
+User:
+
+
+“Sabrina was resentful but didn’t want to say anything to him about it yet.”
+
+“We enter our fighting holes and our fear and terror are with us.”
+
+“Many tasks will have to be accomplished and repeated for survival in a confined space.”
+
+“That junkie peeing in an alley might have been on his way to a robbery.”
+
+Assistant: yet, us, space, robbery.
+
+
+User:
+
+“Rush was taking over Vicki’s life, although at first she wanted nothing to do with it.”
+
+“I love my brother dearly, but he has always been rather impressed with himself.”
+
+“One potential danger, not experienced in other environments, is that of a multigenerational outbreak.”
+
+“Here’s the surprise: the amount of money spent by the candidates hardly matters at all.”
+
+Assistant: it, himself, outbreak, all.
+
+
+User:
+
+“The president conducts the opening ceremony, which is intended to remind the sisters of their values.”
+
+“The enemy has remained abstract, as difficult for me to comprehend as my own birth.”
+
+“The fastest have been observed to move at a rate of barely one step per second.”
+
+“It might first help to ask a more basic question: what, exactly, are we afraid of?”
+
+“Friday morning, Amy’s father picked her up in a rented convertible to take her shopping.”
+
+Assistant: values, birth, second, of, shopping.
+
+User:
+
+“The trenches need only be deep enough for a body to crawl from hole to hole.”
+
+“Once you’ve compiled your gear, go down the list and ask yourself that question again.”
+
+“Experts depend on the fact that you don’t have the information that they do.”
+
+“During the session on service, the group discussed the differences between philanthropy and volunteering.”
+
+“My father knocked on my door and entered my room before he’d stopped knocking.”
+
+Assistant: hole, again, do, volunteering, knocking.
+
+User:
+
+“The skills needed to ride and care for horses are difficult to master.”
+
+“What are the factors that do and do not affect a child’s performance in school?”
+
+“I didn’t know at the time that three of them smoked marijuana regularly.”
+
+“One evening two German women in their midtwenties asked if we knew the way to Dallas.”
+
+“Fearing that their store was being looted, Octavio grabbed his pistol and raced downstairs.”
+
+
+Assistant: master, school, regular, Dallas, downstairs.
+
+
+
+User:
+
+“A high winning percentage alone isn’t enough to prove that a match is rigged.”
+
+“Much of the success of black sororities can be attributed to their primary purpose.”
+
+“Not since boot camp have I received such a complete and ruthless thrashing.”
+
+“Extremely low temperatures with a high wind chill can kill an exposed human in seconds.”
+
+“Gun advocates believe that gun laws are too strict; opponents believe exactly the opposite.”
+
+“In May, after Vicki and Sabrina went home for the summer, I returned to my hometown.”
+
+
+Assistant: rigged, purpose, thrashing, seconds, opposite, hometown.
+
+
+User:
+
+“We knew he didn’t like us because he’d made that clear a few months earlier.”
+
+“The term itself conjures up images of seemingly invincible knights dressed in steel.”
+
+“Over the recent decades, a vast and diverse flock of parenting experts has arisen.”
+
+“In one sense Caitlin agreed with Chris that their issues weren’t her sisters’ concern.”
+
+“The army is using satellite systems and we’re carrying fifteen pounds of dead radio.”
+
+“And what could be a greater deity of American techno-religion than the automobile?”
+
+
+Assistant: earlier, steel, arisen, concern, radio, automobile.
+
+
+
+User:
+
+“And yet he regularly left Cambridge, returning again and again to the crack gang in Chicago.”
+
+“If you want to make yourself happy, you should just do what you want to do.”
+
+“And he’d tend to his curry or yakisoba or other coarse country meals.”
+
+“Always keep in mind how spoiled Americans are in comparison to the rest of the planet.”
+
+“Three years later, the Lanes had another baby boy, their seventh and last child.”
+
+“Some chapters have continued not only to pledge girls, but also to haze them.”
+
+
+Assistant: Chicago, do, meals, planet, child, them.
+
+

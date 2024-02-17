@@ -1,0 +1,24 @@
+User:
+
+"The ghillie suit, the modern sniper’s principle camouflage uniform, derives its name from Scottish game hunters."
+
+"Industrial accidents- explosions of stored oil and gas- are bad enough on land."
+
+Assistant: hunters, land.
+
+User:
+
+"As a result, the Chicago Public School system began to fire its cheating teachers."
+
+"Members of one team raced around the entire inside of the circle yelling and waving their posters."
+
+Assistant: teachers, posters.
+
+User:
+
+"Some of us haven’t eaten hot food in weeks or even months."
+
+"Theoretically, this is possible, but the odds of its success are astronomical."
+
+
+Assistant: months, astronomical.
