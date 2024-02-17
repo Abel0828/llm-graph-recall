@@ -1,5 +1,4 @@
 # Microstructures and Accuracy of Graph Recall by LLMs
-Yanbang Wang, Hejie Cui, Jon Kleinberg
 
 ## Environment & Setup
 * `python >= 3.9`
@@ -46,3 +45,6 @@ Interface for testing microstructures and accuracy of graph recall by LLMs [-h] 
   --repetition REPETITION
                         how many times to repeat the same prompt for gemin
 ```
+
+## Authors
+[Yanbang Wang](https://www.cs.cornell.edu/~ywangdr/), [Hejie Cui](https://hejiecui.com/), [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/) (Cornell University, Emory University)
