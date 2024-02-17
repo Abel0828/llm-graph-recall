@@ -1,4 +1,4 @@
-#Microstructures and Accuracy of Graph Recall by LLMs
+# Microstructures and Accuracy of Graph Recall by LLMs
 Yanbang Wang, Hejie Cui, Jon Kleinberg
 
 ## Environment & Setup
